@@ -1,0 +1,10 @@
+{
+  "name": "d3-chart-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Super-Pig/d3-chart-demo.git",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "6"
+  }
+}
